@@ -1,6 +1,6 @@
 # basic-pc
 
-Le programme `pilot.py` te permet de piloter le robot démo depuis ton pc.
+Le programme `pilot.py` te permet de piloter le robot démo depuis ton pc en utilisant les flèches du clavier ⌨.
 
 Matériel requis :
 - le robot démo

@@ -3,11 +3,11 @@
 Le programme `pilot.py` te permet de piloter le robot démo depuis ton pc en utilisant les flèches du clavier ⌨.
 
 Matériel requis :
-- le robot démo
+- le robot démo (Arduino + une carte d'extension Arduino pour contrôler les moteurs)
 - un pc avec du **BlueTooth**
 
 Logiciel requis :
-- une carte d'extension Arduino pour contrôler les moteurs : voir le petit robot d'entrainement CLT
+
 - vs code ou notepad pour éditer le fichier py
 - l'environnement python installé
 - pip install -r requirements.txt   pour installer les librairies nécessaires
